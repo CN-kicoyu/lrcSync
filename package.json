@@ -1,0 +1,26 @@
+{
+  "name": "lrcsync",
+  "version": "1.0.0",
+  "description": "A JavaScript for synchronizing LRC files and exporting useful lyrics API.",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CN-kicoyu/lrcsync.git"
+  },
+  "keywords": [
+    "lrc",
+    "lyric",
+    "javascript",
+    "music",
+    "parser"
+  ],
+  "author": "kicoyu < kicoyu@126.com >",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CN-kicoyu/lrcsync/issues"
+  },
+  "homepage": "https://github.com/CN-kicoyu/lrcsync#readme"
+}
