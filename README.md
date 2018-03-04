@@ -19,3 +19,6 @@ const lyric = new LrcSync(lrc, lrcHandler)
 `stop()`
 
 `linkTo()`
+
+## Example
+![img](./img/example.png)
